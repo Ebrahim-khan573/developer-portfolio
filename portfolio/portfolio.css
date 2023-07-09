@@ -6,7 +6,8 @@ nav{
     display: flex;
     justify-content: space-between;
     align-items: center;
-    
+    padding-left: 226px;
+    padding-right: 230px;
 }
 .r{
     color: #FD6E0A;;
@@ -44,5 +45,19 @@ color: #fff;
 font-size: 20px;
 font-weight: 700;
 padding: 15px 35px;
+}
+
+.header{
+    background-color: #FFF8F3;
+}
+.banner{
+    padding: 50px 38px 30px 226px;
+    display: flex;
+    align-items: center;
+    
+}
+.banner  .photo{
+    width: 584px;
+    height: 676px;
 }
 
